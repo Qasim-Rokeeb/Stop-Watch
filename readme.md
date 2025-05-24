@@ -25,7 +25,7 @@ Start, stop, and reset the timer with intuitive button controls and a digital di
 
 ## 🌍 Live Demo
 
-🔗 [View Live Project](https://qasim-rokeeb.github.io/Stopwatch/)
+🔗 [View Live Project](https://qasim-rokeeb.github.io/Stop-Watch/)
 
 ---
 
@@ -33,7 +33,7 @@ Start, stop, and reset the timer with intuitive button controls and a digital di
 
 Here’s a look at the Stopwatch App:
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Stopwatch/main/screenshot.png)
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Stop-Watch/main/screenshot.png)
 
 ---
 
@@ -67,7 +67,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Qasim-Rokeeb/Stopwatch
+   git clone https://github.com/Qasim-Rokeeb/Stop-Watch
    ```
 
 2. Open `index.html` in your browser.
